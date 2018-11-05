@@ -1,0 +1,10 @@
+
+
+Python [G:\PycharmProjects\Python] - G:\PycharmProjects\py_hook\demos_hook_keyboard.py [py_hook] - PyCharm
+1(keys:Return)(keys:Back)(keys:Back)(keys:Back)
+
+Python [G:\PycharmProjects\Python] - G:\PycharmProjects\py_hook\demos_hook_keyboard.py [py_hook] - PyCharm
+aaa(keys:Return)(keys:Lcontrol)(keys:Lcontrol)(keys:Lcontrol)(keys:Lcontrol)(keys:Lcontrol)(keys:Lcontrol)(keys:Lcontrol)(keys:Lcontrol)(keys:Lcontrol)(keys:Lcontrol)(keys:Lcontrol)(keys:Lcontrol)(keys:Lcontrol)(keys:Lcontrol)(keys:Lcontrol)(keys:Lcontrol)(keys:Lcontrol)(keys:Lcontrol)(keys:C)(keys:Lcontrol)aaa(keys:Return)
+
+Python [G:\PycharmProjects\Python] - G:\PycharmProjects\py_hook\demos_hook_keyboard.py [py_hook] - PyCharm
+1(keys:Back)a(keys:Return)(keys:Lcontrol)(keys:C)(keys:Lcontrol)a(keys:Lcontrol)a(keys:Lcontrol)a(keys:Lcontrol)a(keys:Lcontrol)a(keys:Lcontrol)a(keys:Lcontrol)av(keys:Lcontrol)(keys:Lcontrol)av(keys:Lcontrol)
